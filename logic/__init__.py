@@ -1,0 +1,1 @@
+from .highscore import HighscoreTable
